@@ -11,6 +11,11 @@
 - **Integration**: `rpi_gpio` (Custom Component)
 
 ---
+ 실행 영상
+https://youtube.com/shorts/8EMWgGG7DFY?feature=share
+
+https://github.com/user-attachments/assets/62d44536-d774-40ea-b8c4-9a91d2416cdc
+---
 
 ## 🔌 Hardware Setup (Wiring)
 LED 및 외부 기기 제어를 위해 다음과 같이 GPIO 핀을 연결하였습니다.
@@ -51,3 +56,8 @@ docker run -d \\
   -v ~/homeassistant/config:/config \\
   --network=host \\
   ghcr.io/home-assistant/home-assistant:stable
+---
+```
+
+
+
