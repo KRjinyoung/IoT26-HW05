@@ -2,6 +2,8 @@
 
 라즈베리 파이 4에 Home Assistant(HA)를 설치하고, Docker 환경에서 GPIO를 제어하여 스마트 홈 시스템을 구축한 프로젝트입니다.
 
+![작동 결과 화면](./images/capture.png)
+
 ## 🛠️ 개발 환경
 - **Hardware**: Raspberry Pi 4
 - **OS**: Raspberry Pi OS (64-bit)
